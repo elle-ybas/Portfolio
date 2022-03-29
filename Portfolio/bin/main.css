@@ -1,0 +1,66 @@
+body {
+    background-image: url("bg_4.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-color: pink;
+    color: black;
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+.header {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    height: 250px;
+}
+
+.menu {
+    background-color: #dbb0ff;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    float: none;
+    width: 500px;
+    padding: 5px;
+    border: 5px double #69417d;
+    text-align: center;
+    text-shadow: 1px 1px #4e4e4e;
+}
+
+a {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    background: rgba(255, 201, 212, 0.8);
+    border: 2px outset #707070;
+    border-radius: 10px;
+    float: none;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    text-shadow: 1px 1px #4e4e4e;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+
+a:hover {
+    background: rgb(255, 201, 212);
+    border: 2px outset #707070;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    text-shadow: 1px 1px #4e4e4e;
+    font-weight: bold;
+    text-decoration: underline;
+    color: white;
+    display: block;
+}
