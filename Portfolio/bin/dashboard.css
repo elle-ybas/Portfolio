@@ -3,6 +3,14 @@
     background-color: rgba(114, 0, 53, 0.6) !important;
 }
 
+.bg-pink {
+    background-color: rgba(163, 101, 130, 0.6) !important;
+}
+
+.bg-color {
+    background-color: pink !important;
+}
+
 body {
     background-image: url("pink.png");
     background-repeat: no-repeat;
