@@ -7,10 +7,6 @@
     background-color: rgba(163, 101, 130, 0.6) !important;
 }
 
-.bg-color {
-    background-color: pink !important;
-}
-
 body {
     background-image: url("pink.png");
     background-repeat: no-repeat;
@@ -19,8 +15,4 @@ body {
     background-color: pink;
     color: black;
     font-family: 'Chakra Petch', sans-serif;
-}
-
-li a:hover {
-    color: pink;
 }
