@@ -1,0 +1,21 @@
+@charset "UTF-8";
+.bg-yellow {
+    background-color: rgba(255, 227, 174, 0.6) !important;
+}
+
+.bg-color {
+    background-color: rgb(255, 227, 174) !important;
+}
+
+body {
+    background-image: url("about.gif");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-color: rgb(255, 230, 175);
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+li a:hover {
+    color: rgb(255, 230, 175);
+}
